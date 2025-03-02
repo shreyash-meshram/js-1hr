@@ -11,5 +11,23 @@ let changed = Number(score2)
 console.log(typeof changed)
 console.log(typeof score2)
 
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+// let isLoggedIn = "Shreyash"
+
+// let booleanIsLoggedIn = Boolean(isLoggedIn)
+
+// console.log(booleanIsLoggedIn)
 
 
+let isLoggedIn = ""
+
+let booleanIsLoggedIn = Boolean(isLoggedIn)
+
+console.log(booleanIsLoggedIn)
+
+let equal = 23==="23"  // 23=="23" is true
+
+let co = Boolean(equal)
+
+console.log(co)
